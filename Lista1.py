@@ -69,4 +69,3 @@ minutos = x*60
 
 print(f"{minutos}")
 
-print(1+2)
